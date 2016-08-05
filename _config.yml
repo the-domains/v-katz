@@ -1,0 +1,14 @@
+layout_spectrum: 0.505064336117357
+typography_spectrum: 0.22820783872157335
+color:
+  brandStrength: 0.4982420662418008
+  lightness: 0.14933598600327969
+  saturation: 0.4219311608467251
+  rhythmicContrast: 0.27267485368065536
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: V-Katz
